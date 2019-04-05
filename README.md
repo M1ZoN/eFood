@@ -1,5 +1,5 @@
 # This is Startup related to home-made food
-## **Contributors:**
+## Contributors:
 - Akbar Sayakov
 - Mukhammadnozim Islamov
 - Dias Mustafin
